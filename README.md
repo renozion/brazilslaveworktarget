@@ -8,7 +8,7 @@ FRIGOTIL http://www.frigotil.com.br/
 <p>
 JBS https://jbs.com.br/
   <p>
-FRIGOESTRELA https://frigoestrela.com.br/site/
+FRIGOESTRELA https://frigoestrela.com.br/site/     DNS: http://fazendaturbilhao.com.br/
     <p>
 Cooperfrigu https://cooperfrigu.com.br/
       <p>
