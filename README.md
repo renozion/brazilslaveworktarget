@@ -1,6 +1,7 @@
 # brazilslaveworktarget<p>
 Factories and ppl that were envolved in slave work in brazil and are not facing any charges, defacers plz do your job.
 <p>
+<p>
 MINERVA https://www.minervafoods.com/
 <p>
 FRIGOTIL http://www.frigotil.com.br/
@@ -14,8 +15,10 @@ Cooperfrigu https://cooperfrigu.com.br/
 Boi Brasil http://www.boibrasil.ind.br/br/
         <p>
 <p>
-  <p>
+<p>
 Farmers:
+<p>
+<p>
 <p>
 RAFAEL PEDRON VICENTE
   <p>
@@ -29,7 +32,7 @@ Joaquim   Bahia   Evangelista
 <p>
 José  Carlos  Nobre  Monteiro
 <p>
-José  Ro-drigues  dos  Santos
+José  Rodrigues  dos  Santos
 <p>
 Eronice  de  Souza  Borges
 <p>
