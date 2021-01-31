@@ -1,5 +1,5 @@
 # brazilslaveworktarget<p>
-Factories and ppl that were envolved in slave work in brazil and are not facing any charges, defacers plz do your job.
+Factories and ppl that were envolved in slave work in brazil and are not facing any charges.
 <p>
 <p>
 MINERVA https://www.minervafoods.com/
