@@ -22,11 +22,11 @@ Farmers:
 <p>
 RAFAEL PEDRON VICENTE
   <p>
-AMARILDO MARTINI
+AMARILDO MARTINI (grupo Rodoserv https://www.gruporodoserv.com.br:2083/)
 <p>
 HÉLIO CAVALCANTI GARCIA
 <p>
-JOSÉ CARLOS NOBRE MONTEIRO 
+JOSÉ CARLOS NOBRE MONTEIRO (PcdoB-MA)
 <p>
 Joaquim   Bahia   Evangelista
 <p>
